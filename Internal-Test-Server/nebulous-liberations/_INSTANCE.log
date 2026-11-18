@@ -1,0 +1,811 @@
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: before clone
+    base_area_id    : LiberationEasyMode
+    diagnostic      : collision_tileset_preload_v2
+    mission_area_id : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: clone complete
+    base_area_id    : LiberationEasyMode
+    mission_area_id : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: preload complete
+    collision_tileset_path : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+    mission_area_id        : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset lookup OK
+    area_id   : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    first_gid : "74"
+    path      : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/INSTANCE] Boss spawned
+    base_area_id     : LiberationEasyMode
+    boss_id          : ShadeMan_01
+    enemy_name       : ShadeMan
+    enemy_template   : ShadeMan
+    health           : 1000
+    health_override  : 1000
+    instance_area_id : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    max_health       : 1000
+    object_id        : 49
+    spawn_mode       : Immediate
+    x                : 6
+    y                : 6
+    z                : 0
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/INSTANCE] Created liberation instance
+    base_area_id               : LiberationEasyMode
+    base_area_name             : LibEasy
+    boss_definition_count      : 1
+    dark_hole_count            : 6
+    desired_player_count       : 3
+    enemy_count                : 5
+    has_boss                   : true
+    honor_hp_mem               : true
+    indestructible_panel_count : 8
+    instance_area_id           : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    max_order_points           : 40
+    panel_gate_count           : 10
+    player_count               : 1
+    points_of_interest_count   : 6
+    target_phase               : 13
+[2026-11-13 13:36:24] [INFO ] [nebulous-liberations/INSTANCE] Liberation player transfer completed
+    instance_area_id    : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    player_id           : 8f37800b-b987-42c8-893c-c33e35ee0a2e
+    remaining_transfers : 0
+[2026-11-13 13:36:24] [INFO ] [nebulous-liberations/INSTANCE] All liberation players transferred; beginning mission
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    player_count     : 1
+[2026-11-13 13:36:24] [INFO ] [nebulous-liberations/INSTANCE] Beginning liberation mission
+    base_area_id     : LiberationEasyMode
+    base_area_name   : LibEasy
+    instance_area_id : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    max_order_points : 40
+    order_points     : 3
+    player_count     : 1
+    player_ids       :
+        [1] : 8f37800b-b987-42c8-893c-c33e35ee0a2e
+    spawn_found      : true
+    start_health     : 1000
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: before clone
+    base_area_id    : LiberationEasyMode
+    diagnostic      : collision_tileset_preload_v2
+    mission_area_id : liberation_00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: clone complete
+    base_area_id    : LiberationEasyMode
+    mission_area_id : liberation_00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: preload complete
+    collision_tileset_path : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+    mission_area_id        : liberation_00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset lookup OK
+    area_id   : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    first_gid : "74"
+    path      : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] Boss spawned
+    base_area_id     : LiberationEasyMode
+    boss_id          : ShadeMan_01
+    enemy_name       : ShadeMan
+    enemy_template   : ShadeMan
+    health           : 1000
+    health_override  : 1000
+    instance_area_id : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    max_health       : 1000
+    object_id        : 49
+    spawn_mode       : Immediate
+    x                : 6
+    y                : 6
+    z                : 0
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] Created liberation instance
+    base_area_id               : LiberationEasyMode
+    base_area_name             : LibEasy
+    boss_definition_count      : 1
+    dark_hole_count            : 6
+    desired_player_count       : 3
+    enemy_count                : 5
+    has_boss                   : true
+    honor_hp_mem               : true
+    indestructible_panel_count : 8
+    instance_area_id           : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    max_order_points           : 40
+    panel_gate_count           : 10
+    player_count               : 1
+    points_of_interest_count   : 6
+    target_phase               : 13
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] Liberation player transfer completed
+    instance_area_id    : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    player_id           : 00c9e590-acff-445d-8103-56492aa4e489
+    remaining_transfers : 0
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] All liberation players transferred; beginning mission
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    player_count     : 1
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/INSTANCE] Beginning liberation mission
+    base_area_id     : LiberationEasyMode
+    base_area_name   : LibEasy
+    instance_area_id : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    max_order_points : 40
+    order_points     : 3
+    player_count     : 1
+    player_ids       :
+        [1] : 00c9e590-acff-445d-8103-56492aa4e489
+    spawn_found      : true
+    start_health     : 1000
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: before clone
+    base_area_id    : LiberationNormalMode
+    diagnostic      : collision_tileset_preload_v2
+    mission_area_id : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: clone complete
+    base_area_id    : LiberationNormalMode
+    mission_area_id : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: preload complete
+    collision_tileset_path : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+    mission_area_id        : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset lookup OK
+    area_id   : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    first_gid : "74"
+    path      : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] Boss spawned
+    base_area_id     : LiberationNormalMode
+    boss_id          : ShadeMan_01
+    enemy_name       : ShadeMan
+    enemy_template   : ShadeMan
+    health           : 1500
+    health_override  : 1500
+    instance_area_id : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    max_health       : 1500
+    object_id        : 136
+    spawn_mode       : Immediate
+    x                : 16
+    y                : 3
+    z                : 0
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] Created liberation instance
+    base_area_id               : LiberationNormalMode
+    base_area_name             : LibNorm
+    boss_definition_count      : 1
+    dark_hole_count            : 4
+    desired_player_count       : 3
+    enemy_count                : 5
+    has_boss                   : true
+    honor_hp_mem               : true
+    indestructible_panel_count : 8
+    instance_area_id           : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    max_order_points           : 40
+    panel_gate_count           : 31
+    player_count               : 1
+    points_of_interest_count   : 7
+    target_phase               : 13
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] Liberation player transfer completed
+    instance_area_id    : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    player_id           : 9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    remaining_transfers : 0
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] All liberation players transferred; beginning mission
+    base_area_id     : LiberationNormalMode
+    instance_area_id : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    player_count     : 1
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/INSTANCE] Beginning liberation mission
+    base_area_id     : LiberationNormalMode
+    base_area_name   : LibNorm
+    instance_area_id : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    max_order_points : 40
+    order_points     : 3
+    player_count     : 1
+    player_ids       :
+        [1] : 9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    spawn_found      : true
+    start_health     : 1000
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: before clone
+    base_area_id    : NewLiberation1
+    diagnostic      : collision_tileset_preload_v2
+    mission_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: clone complete
+    base_area_id    : NewLiberation1
+    mission_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: preload complete
+    collision_tileset_path : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+    mission_area_id        : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset lookup OK
+    area_id   : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    first_gid : "74"
+    path      : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/INSTANCE] Boss spawned
+    base_area_id     : NewLiberation1
+    boss_id          : ShadeMan_01
+    enemy_name       : ShadeMan
+    enemy_template   : ShadeMan
+    health           : 1200
+    health_override  : 1200
+    instance_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    max_health       : 1200
+    object_id        : 168
+    spawn_mode       : Immediate
+    x                : 32
+    y                : 4
+    z                : 0
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/INSTANCE] Boss spawned
+    base_area_id     : NewLiberation1
+    boss_id          : ShadeMan_02
+    enemy_name       : ShadeMan
+    enemy_template   : ShadeMan
+    health           : 2000
+    health_override  : 2000
+    instance_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    max_health       : 2000
+    object_id        : 177
+    spawn_mode       : Immediate
+    x                : 4
+    y                : 31
+    z                : 0
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/INSTANCE] Created liberation instance
+    base_area_id               : NewLiberation1
+    base_area_name             : BetaLiberation
+    boss_definition_count      : 2
+    dark_hole_count            : 7
+    desired_player_count       : 3
+    enemy_count                : 9
+    has_boss                   : true
+    honor_hp_mem               : true
+    indestructible_panel_count : 16
+    instance_area_id           : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    max_order_points           : 40
+    panel_gate_count           : 1
+    player_count               : 1
+    points_of_interest_count   : 7
+    target_phase               : 13
+[2026-11-13 13:59:53] [INFO ] [nebulous-liberations/INSTANCE] Liberation player transfer completed
+    instance_area_id    : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    player_id           : a7aab878-a964-4aaa-a161-f46a9adbc57a
+    remaining_transfers : 0
+[2026-11-13 13:59:53] [INFO ] [nebulous-liberations/INSTANCE] All liberation players transferred; beginning mission
+    base_area_id     : NewLiberation1
+    instance_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    player_count     : 1
+[2026-11-13 13:59:53] [INFO ] [nebulous-liberations/INSTANCE] Beginning liberation mission
+    base_area_id     : NewLiberation1
+    base_area_name   : BetaLiberation
+    instance_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    max_order_points : 40
+    order_points     : 3
+    player_count     : 1
+    player_ids       :
+        [1] : a7aab878-a964-4aaa-a161-f46a9adbc57a
+    spawn_found      : true
+    start_health     : 1000
+[2026-11-13 14:05:45] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: before clone
+    base_area_id    : LiberationEasyMode
+    diagnostic      : collision_tileset_preload_v2
+    mission_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:05:45] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: clone complete
+    base_area_id    : LiberationEasyMode
+    mission_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:05:45] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: preload complete
+    collision_tileset_path : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+    mission_area_id        : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:05:45] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset lookup OK
+    area_id   : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    first_gid : "74"
+    path      : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+[2026-11-13 14:05:46] [INFO ] [nebulous-liberations/INSTANCE] Boss spawned
+    base_area_id     : LiberationEasyMode
+    boss_id          : ShadeMan_01
+    enemy_name       : ShadeMan
+    enemy_template   : ShadeMan
+    health           : 1000
+    health_override  : 1000
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    max_health       : 1000
+    object_id        : 49
+    spawn_mode       : Immediate
+    x                : 6
+    y                : 6
+    z                : 0
+[2026-11-13 14:05:46] [INFO ] [nebulous-liberations/INSTANCE] Created liberation instance
+    base_area_id               : LiberationEasyMode
+    base_area_name             : LibEasy
+    boss_definition_count      : 1
+    dark_hole_count            : 6
+    desired_player_count       : 3
+    enemy_count                : 5
+    has_boss                   : true
+    honor_hp_mem               : true
+    indestructible_panel_count : 8
+    instance_area_id           : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    max_order_points           : 40
+    panel_gate_count           : 10
+    player_count               : 1
+    points_of_interest_count   : 6
+    target_phase               : 13
+[2026-11-13 14:05:46] [INFO ] [nebulous-liberations/INSTANCE] Liberation player transfer completed
+    instance_area_id    : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    player_id           : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    remaining_transfers : 0
+[2026-11-13 14:05:46] [INFO ] [nebulous-liberations/INSTANCE] All liberation players transferred; beginning mission
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    player_count     : 1
+[2026-11-13 14:05:46] [INFO ] [nebulous-liberations/INSTANCE] Beginning liberation mission
+    base_area_id     : LiberationEasyMode
+    base_area_name   : LibEasy
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    max_order_points : 40
+    order_points     : 3
+    player_count     : 1
+    player_ids       :
+        [1] : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    spawn_found      : true
+    start_health     : 1000
+[2026-11-13 14:07:41] [INFO ] [nebulous-liberations/INSTANCE] Player liberating panel
+    ability          : LongSwrd
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    order_points     : 3
+    panel_type       : "Dark Panel"
+    panel_x          : 37
+    panel_y          : 10
+    panel_z          : 0
+    phase            : 1
+    player_id        : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:07:42] [INFO ] [nebulous-liberations/INSTANCE] Initiating panel encounter
+    area_name        : LibEasy
+    base_area_id     : LiberationEasyMode
+    encounter_path   : /server/assets/ezlibs-assets/ezencounters/ezencounters-liberation-liberationeasymode.zip
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    panel_type       : "Dark Panel"
+    panel_x          : 37
+    panel_y          : 10
+    panel_z          : 0
+    phase            : 1
+    player_id        : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    source           : panel
+    terrain          : even
+[2026-11-13 14:07:42] [INFO ] [nebulous-liberations/INSTANCE] Prepared panel encounter data
+    battle_scale_scope         : Matching
+    battle_scale_updated_count : 0
+    encounter_enemy_entries    :
+        [1] :
+            index : 1
+            name  : Rabiree
+            rank  : 2
+        [2] :
+            index : 2
+            name  : Swordy
+            rank  : 3
+        [3] :
+            index : 3
+            name  : Cannodumb
+            rank  : 3
+    encounter_name             : Encounter3
+    enemy_entry_health_applied : false
+    freedom_mission            : true
+    player_can_flip            : false
+    resolved_terrain           : even
+[2026-11-13 14:07:42] [INFO ] [nebulous-liberations/INSTANCE] Dispatching liberation encounter to client
+    base_area_id         : LiberationEasyMode
+    encounter_name       : Encounter3
+    enemy_count          : 3
+    has_player_positions : true
+    has_positions        : true
+    instance_area_id     : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    package_path         : /server/assets/ezlibs-assets/ezencounters/ezencounters-liberation-liberationeasymode.zip
+    player_id            : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    terrain              : even
+[2026-11-13 14:13:06] [INFO ] [nebulous-liberations/INSTANCE] Panel encounter results
+    base_area_id        : LiberationEasyMode
+    enemy_count         : 4
+    enemy_health_synced : false
+    escape              : "nil"
+    fled                : "nil"
+    health              : 1000
+    instance_area_id    : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    panel_type          : "Dark Panel"
+    player_id           : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    ran                 : "nil"
+    reason              : "4"
+    success             : false
+    turns               : 0
+[2026-11-13 14:13:07] [INFO ] [nebulous-liberations/INSTANCE] Enemy turn start
+    area_name        : LibEasy
+    base_area_id     : LiberationEasyMode
+    dark_hole_count  : 6
+    down_players     : 0
+    enemy_count      : 5
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    order_points     : 3
+    phase            : 1
+    player_count     : 1
+[2026-11-13 14:13:07] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 1000
+    enemy_name       : ShadeMan
+    enemy_x          : 6
+    enemy_y          : 6
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : true
+[2026-11-13 14:13:08] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 34
+    enemy_y          : 14
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:13:08] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 34
+    enemy_y          : 6
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:13:10] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 26
+    enemy_y          : 7
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:13:11] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 12
+    enemy_y          : 0
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:13:18] [INFO ] [nebulous-liberations/INSTANCE] Enemy turn end
+    base_area_id     : LiberationEasyMode
+    dark_hole_count  : 6
+    enemy_count      : 7
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    next_phase       : 2
+    phase_completed  : 1
+[2026-11-13 14:15:11] [INFO ] [nebulous-liberations/INSTANCE] Player liberating panel
+    ability          : LongSwrd
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    order_points     : 3
+    panel_type       : "Dark Panel"
+    panel_x          : 37
+    panel_y          : 10
+    panel_z          : 0
+    phase            : 2
+    player_id        : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:15:11] [INFO ] [nebulous-liberations/INSTANCE] Initiating panel encounter
+    area_name        : LibEasy
+    base_area_id     : LiberationEasyMode
+    encounter_path   : /server/assets/ezlibs-assets/ezencounters/ezencounters-liberation-liberationeasymode.zip
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    panel_type       : "Dark Panel"
+    panel_x          : 37
+    panel_y          : 10
+    panel_z          : 0
+    phase            : 2
+    player_id        : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    source           : panel
+    terrain          : even
+[2026-11-13 14:15:11] [INFO ] [nebulous-liberations/INSTANCE] Prepared panel encounter data
+    battle_scale_scope         : Matching
+    battle_scale_updated_count : 0
+    encounter_enemy_entries    :
+        [1] :
+            index : 1
+            name  : Piranha
+            rank  : 2
+        [2] :
+            index : 2
+            name  : Rabiree
+            rank  : 3
+        [3] :
+            index : 3
+            name  : Piranha
+            rank  : 3
+    encounter_name             : Encounter2
+    enemy_entry_health_applied : false
+    freedom_mission            : true
+    player_can_flip            : false
+    resolved_terrain           : even
+[2026-11-13 14:15:11] [INFO ] [nebulous-liberations/INSTANCE] Dispatching liberation encounter to client
+    base_area_id         : LiberationEasyMode
+    encounter_name       : Encounter2
+    enemy_count          : 3
+    has_player_positions : true
+    has_positions        : true
+    instance_area_id     : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    package_path         : /server/assets/ezlibs-assets/ezencounters/ezencounters-liberation-liberationeasymode.zip
+    player_id            : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    terrain              : even
+[2026-11-13 14:15:15] [INFO ] [nebulous-liberations/INSTANCE] Panel encounter results
+    base_area_id        : LiberationEasyMode
+    enemy_count         : 4
+    enemy_health_synced : false
+    escape              : "nil"
+    fled                : "nil"
+    health              : 980
+    instance_area_id    : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    panel_type          : "Dark Panel"
+    player_id           : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    ran                 : "nil"
+    reason              : "4"
+    success             : false
+    turns               : 0
+[2026-11-13 14:15:15] [INFO ] [nebulous-liberations/INSTANCE] Enemy turn start
+    area_name        : LibEasy
+    base_area_id     : LiberationEasyMode
+    dark_hole_count  : 6
+    down_players     : 0
+    enemy_count      : 7
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    order_points     : 3
+    phase            : 2
+    player_count     : 1
+[2026-11-13 14:15:16] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 1000
+    enemy_name       : ShadeMan
+    enemy_x          : 6
+    enemy_y          : 6
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : true
+[2026-11-13 14:15:16] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 34
+    enemy_y          : 14
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:15:17] [INFO ] [nebulous-liberations/INSTANCE] Player disconnected from liberation
+    base_area_id      : LiberationEasyMode
+    instance_area_id  : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    player_id         : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    remaining_players : 0
+[2026-11-13 14:15:17] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 34
+    enemy_y          : 7
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:15:18] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 26
+    enemy_y          : 7
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:15:18] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 12
+    enemy_y          : 0
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:15:19] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 12
+    enemy_y          : 11
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:15:20] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 12
+    enemy_y          : 2
+    enemy_z          : 0
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    is_boss          : false
+[2026-11-13 14:15:20] [INFO ] [nebulous-liberations/INSTANCE] Enemy turn end
+    base_area_id     : LiberationEasyMode
+    dark_hole_count  : 6
+    enemy_count      : 7
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    next_phase       : 3
+    phase_completed  : 2
+[2026-11-13 14:15:20] [INFO ] [nebulous-liberations/INSTANCE] Cleaning up liberation instance
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: before clone
+    base_area_id    : LiberationEasyMode
+    diagnostic      : collision_tileset_preload_v2
+    mission_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: clone complete
+    base_area_id    : LiberationEasyMode
+    mission_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset diagnostic: preload complete
+    collision_tileset_path : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+    mission_area_id        : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/INSTANCE] Collision tileset lookup OK
+    area_id   : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    first_gid : "74"
+    path      : "/server/assets/ezlibs-custom/nebulous-liberations/tiles/Liberation Collision.tsx"
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/INSTANCE] Boss spawned
+    base_area_id     : LiberationEasyMode
+    boss_id          : ShadeMan_01
+    enemy_name       : ShadeMan
+    enemy_template   : ShadeMan
+    health           : 1000
+    health_override  : 1000
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    max_health       : 1000
+    object_id        : 49
+    spawn_mode       : Immediate
+    x                : 6
+    y                : 6
+    z                : 0
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/INSTANCE] Created liberation instance
+    base_area_id               : LiberationEasyMode
+    base_area_name             : LibEasy
+    boss_definition_count      : 1
+    dark_hole_count            : 6
+    desired_player_count       : 3
+    enemy_count                : 5
+    has_boss                   : true
+    honor_hp_mem               : true
+    indestructible_panel_count : 8
+    instance_area_id           : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    max_order_points           : 40
+    panel_gate_count           : 10
+    player_count               : 1
+    points_of_interest_count   : 6
+    target_phase               : 13
+[2026-11-13 14:51:11] [INFO ] [nebulous-liberations/INSTANCE] Liberation player transfer completed
+    instance_area_id    : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    player_id           : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    remaining_transfers : 0
+[2026-11-13 14:51:11] [INFO ] [nebulous-liberations/INSTANCE] All liberation players transferred; beginning mission
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    player_count     : 1
+[2026-11-13 14:51:11] [INFO ] [nebulous-liberations/INSTANCE] Beginning liberation mission
+    base_area_id     : LiberationEasyMode
+    base_area_name   : LibEasy
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    max_order_points : 40
+    order_points     : 3
+    player_count     : 1
+    player_ids       :
+        [1] : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    spawn_found      : true
+    start_health     : 1000
+[2026-11-13 14:51:24] [INFO ] [nebulous-liberations/INSTANCE] Player liberating panel
+    ability          : LongSwrd
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    order_points     : 3
+    panel_type       : "Dark Panel"
+    panel_x          : 37
+    panel_y          : 10
+    panel_z          : 0
+    phase            : 1
+    player_id        : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:24] [INFO ] [nebulous-liberations/INSTANCE] Initiating panel encounter
+    area_name        : LibEasy
+    base_area_id     : LiberationEasyMode
+    encounter_path   : /server/assets/ezlibs-assets/ezencounters/ezencounters-liberation-liberationeasymode.zip
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    panel_type       : "Dark Panel"
+    panel_x          : 37
+    panel_y          : 10
+    panel_z          : 0
+    phase            : 1
+    player_id        : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    source           : panel
+    terrain          : even
+[2026-11-13 14:51:24] [INFO ] [nebulous-liberations/INSTANCE] Prepared panel encounter data
+    battle_scale_scope         : Matching
+    battle_scale_updated_count : 0
+    encounter_enemy_entries    :
+        [1] :
+            index : 1
+            name  : Rabiree
+            rank  : 2
+        [2] :
+            index : 2
+            name  : Swordy
+            rank  : 3
+        [3] :
+            index : 3
+            name  : Cannodumb
+            rank  : 3
+    encounter_name             : Encounter3
+    enemy_entry_health_applied : false
+    freedom_mission            : true
+    player_can_flip            : false
+    resolved_terrain           : even
+[2026-11-13 14:51:24] [INFO ] [nebulous-liberations/INSTANCE] Dispatching liberation encounter to client
+    base_area_id         : LiberationEasyMode
+    encounter_name       : Encounter3
+    enemy_count          : 3
+    has_player_positions : true
+    has_positions        : true
+    instance_area_id     : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    package_path         : /server/assets/ezlibs-assets/ezencounters/ezencounters-liberation-liberationeasymode.zip
+    player_id            : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    terrain              : even
+[2026-11-13 14:51:30] [INFO ] [nebulous-liberations/INSTANCE] Panel encounter results
+    base_area_id        : LiberationEasyMode
+    enemy_count         : 4
+    enemy_health_synced : false
+    escape              : "nil"
+    fled                : "nil"
+    health              : 1000
+    instance_area_id    : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    panel_type          : "Dark Panel"
+    player_id           : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    ran                 : "nil"
+    reason              : "4"
+    success             : false
+    turns               : 1
+[2026-11-13 14:51:30] [INFO ] [nebulous-liberations/INSTANCE] Enemy turn start
+    area_name        : LibEasy
+    base_area_id     : LiberationEasyMode
+    dark_hole_count  : 6
+    down_players     : 0
+    enemy_count      : 5
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    order_points     : 3
+    phase            : 1
+    player_count     : 1
+[2026-11-13 14:51:31] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 1000
+    enemy_name       : ShadeMan
+    enemy_x          : 6
+    enemy_y          : 6
+    enemy_z          : 0
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    is_boss          : true
+[2026-11-13 14:51:31] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 34
+    enemy_y          : 14
+    enemy_z          : 0
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    is_boss          : false
+[2026-11-13 14:51:32] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 34
+    enemy_y          : 6
+    enemy_z          : 0
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    is_boss          : false
+[2026-11-13 14:51:34] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 26
+    enemy_y          : 7
+    enemy_z          : 0
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    is_boss          : false
+[2026-11-13 14:51:35] [DEBUG] [nebulous-liberations/INSTANCE] Enemy taking turn
+    base_area_id     : LiberationEasyMode
+    enemy_health     : 240
+    enemy_name       : BigBrute
+    enemy_x          : 12
+    enemy_y          : 0
+    enemy_z          : 0
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    is_boss          : false
+[2026-11-13 14:51:41] [INFO ] [nebulous-liberations/INSTANCE] Enemy turn end
+    base_area_id     : LiberationEasyMode
+    dark_hole_count  : 6
+    enemy_count      : 7
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    next_phase       : 2
+    phase_completed  : 1

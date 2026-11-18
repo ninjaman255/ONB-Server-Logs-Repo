@@ -1,0 +1,895 @@
+[2026-11-13 13:36:12] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationNormalMode
+    source_area_name         : LibNorm
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationNormalMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : "example liberation friendly"
+    source_area_name        : "Template Lib"
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : "example liberation friendly"
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:12] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationEasyMode
+    source_area_name         : LibEasy
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationEasyMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : christmas
+    respawn_area            : christmas
+    source_area_id          : testground
+    source_area_name        : PracticeArea2
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testground
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:12] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : NewLiberation1
+    source_area_name         : BetaLiberation
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : NewLiberation1
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:12] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : DEBUGLIB
+    source_area_name         : DEBUGIN
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : DEBUGLIB
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:12] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationHardMode
+    source_area_name         : LibHard
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationHardMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : ooo
+    respawn_area            : ooo
+    source_area_id          : testlib
+    source_area_name        : PracticeArea
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testlib
+    error            : "{\n\t[\"first_gid\"] = 61,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : liberation1
+    source_area_name        : Undernet2
+[2026-11-13 13:36:12] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : liberation1
+    error            : "{\n\t[\"first_gid\"] = 110,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/MAIN] Starting liberation mission
+    base_area        : LiberationEasyMode
+    base_area_name   : LibEasy
+    instance_area_id : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    player_count     : 1
+    player_ids       :
+        [1] : 8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfers starting
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    player_count     : 1
+    player_ids       :
+        [1] : 8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfer requested
+    instance_area_id : liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+    player_id        : 8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:46:35] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationNormalMode
+    source_area_name         : LibNorm
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationNormalMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:35] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : NewLiberation1
+    source_area_name         : BetaLiberation
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : NewLiberation1
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : liberation1
+    source_area_name        : Undernet2
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : liberation1
+    error            : "{\n\t[\"first_gid\"] = 110,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:35] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationEasyMode
+    source_area_name         : LibEasy
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationEasyMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : christmas
+    respawn_area            : christmas
+    source_area_id          : testground
+    source_area_name        : PracticeArea2
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testground
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : ooo
+    respawn_area            : ooo
+    source_area_id          : testlib
+    source_area_name        : PracticeArea
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testlib
+    error            : "{\n\t[\"first_gid\"] = 61,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : "example liberation friendly"
+    source_area_name        : "Template Lib"
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : "example liberation friendly"
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:35] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationHardMode
+    source_area_name         : LibHard
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationHardMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:35] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : DEBUGLIB
+    source_area_name         : DEBUGIN
+[2026-11-13 13:46:35] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : DEBUGLIB
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/MAIN] Starting liberation mission
+    base_area        : LiberationEasyMode
+    base_area_name   : LibEasy
+    instance_area_id : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    player_count     : 1
+    player_ids       :
+        [1] : 00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfers starting
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    player_count     : 1
+    player_ids       :
+        [1] : 00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfer requested
+    instance_area_id : liberation_00c9e590-acff-445d-8103-56492aa4e489
+    player_id        : 00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : ooo
+    respawn_area            : ooo
+    source_area_id          : testlib
+    source_area_name        : PracticeArea
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testlib
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 61\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:48] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationHardMode
+    source_area_name         : LibHard
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationHardMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:48] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationEasyMode
+    source_area_name         : LibEasy
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationEasyMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:48] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : DEBUGLIB
+    source_area_name         : DEBUGIN
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : DEBUGLIB
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : "example liberation friendly"
+    source_area_name        : "Template Lib"
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : "example liberation friendly"
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:48] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : NewLiberation1
+    source_area_name         : BetaLiberation
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : NewLiberation1
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : liberation1
+    source_area_name        : Undernet2
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : liberation1
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 110\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : christmas
+    respawn_area            : christmas
+    source_area_id          : testground
+    source_area_name        : PracticeArea2
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testground
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:48] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationNormalMode
+    source_area_name         : LibNorm
+[2026-11-13 13:47:48] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationNormalMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/MAIN] Starting liberation mission
+    base_area        : LiberationNormalMode
+    base_area_name   : LibNorm
+    instance_area_id : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    player_count     : 1
+    player_ids       :
+        [1] : 9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfers starting
+    base_area_id     : LiberationNormalMode
+    instance_area_id : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    player_count     : 1
+    player_ids       :
+        [1] : 9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfer requested
+    instance_area_id : liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+    player_id        : 9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : "example liberation friendly"
+    source_area_name        : "Template Lib"
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : "example liberation friendly"
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:37] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationHardMode
+    source_area_name         : LibHard
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationHardMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : christmas
+    respawn_area            : christmas
+    source_area_id          : testground
+    source_area_name        : PracticeArea2
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testground
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : ooo
+    respawn_area            : ooo
+    source_area_id          : testlib
+    source_area_name        : PracticeArea
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testlib
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 61\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : liberation1
+    source_area_name        : Undernet2
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : liberation1
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 110\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:37] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationEasyMode
+    source_area_name         : LibEasy
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationEasyMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:37] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationNormalMode
+    source_area_name         : LibNorm
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationNormalMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:37] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : NewLiberation1
+    source_area_name         : BetaLiberation
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : NewLiberation1
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:37] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : DEBUGLIB
+    source_area_name         : DEBUGIN
+[2026-11-13 13:59:37] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : DEBUGLIB
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/MAIN] Starting liberation mission
+    base_area        : NewLiberation1
+    base_area_name   : BetaLiberation
+    instance_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    player_count     : 1
+    player_ids       :
+        [1] : a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfers starting
+    base_area_id     : NewLiberation1
+    instance_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    player_count     : 1
+    player_ids       :
+        [1] : a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfer requested
+    instance_area_id : liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+    player_id        : a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 14:05:16] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : NewLiberation1
+    source_area_name         : BetaLiberation
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : NewLiberation1
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : christmas
+    respawn_area            : christmas
+    source_area_id          : testground
+    source_area_name        : PracticeArea2
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testground
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:16] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : DEBUGLIB
+    source_area_name         : DEBUGIN
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : DEBUGLIB
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : liberation1
+    source_area_name        : Undernet2
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : liberation1
+    error            : "{\n\t[\"first_gid\"] = 110,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:16] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationEasyMode
+    source_area_name         : LibEasy
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationEasyMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:16] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationHardMode
+    source_area_name         : LibHard
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationHardMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:16] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationNormalMode
+    source_area_name         : LibNorm
+[2026-11-13 14:05:16] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationNormalMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:17] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : ooo
+    respawn_area            : ooo
+    source_area_id          : testlib
+    source_area_name        : PracticeArea
+[2026-11-13 14:05:17] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testlib
+    error            : "{\n\t[\"first_gid\"] = 61,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:17] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : "example liberation friendly"
+    source_area_name        : "Template Lib"
+[2026-11-13 14:05:17] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : "example liberation friendly"
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:05:45] [INFO ] [nebulous-liberations/MAIN] Starting liberation mission
+    base_area        : LiberationEasyMode
+    base_area_name   : LibEasy
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    player_count     : 1
+    player_ids       :
+        [1] : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:05:46] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfers starting
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    player_count     : 1
+    player_ids       :
+        [1] : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:05:46] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfer requested
+    instance_area_id : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    player_id        : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:13:05] [INFO ] [nebulous-liberations/MAIN] plugin handle_battle_results invoked
+    arg1_type : string
+    arg2_type : table
+    arg_count : 2
+[2026-11-13 14:13:06] [INFO ] [nebulous-liberations/MAIN] plugin handle_battle_exit invoked
+    arg1_type : string
+    arg2_type : table
+    arg_count : 3
+[2026-11-13 14:15:14] [INFO ] [nebulous-liberations/MAIN] plugin handle_battle_results invoked
+    arg1_type : string
+    arg2_type : table
+    arg_count : 2
+[2026-11-13 14:15:15] [INFO ] [nebulous-liberations/MAIN] plugin handle_battle_exit invoked
+    arg1_type : string
+    arg2_type : table
+    arg_count : 3
+[2026-11-13 14:15:17] [INFO ] [nebulous-liberations/MAIN] Removing liberation instance
+    area_name               : LibEasy
+    base_area_id            : LiberationEasyMode
+    configured_respawn_area : default
+    instance_area_id        : liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    respawn_area            : default
+    spawn_found             : true
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : "example liberation friendly"
+    source_area_name        : "Template Lib"
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : "example liberation friendly"
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:28:04] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationNormalMode
+    source_area_name         : LibNorm
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationNormalMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : christmas
+    respawn_area            : christmas
+    source_area_id          : testground
+    source_area_name        : PracticeArea2
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testground
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:28:04] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : NewLiberation1
+    source_area_name         : BetaLiberation
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : NewLiberation1
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:28:04] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationEasyMode
+    source_area_name         : LibEasy
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationEasyMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : liberation1
+    source_area_name        : Undernet2
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : liberation1
+    error            : "{\n\t[\"first_gid\"] = 110,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : ooo
+    respawn_area            : ooo
+    source_area_id          : testlib
+    source_area_name        : PracticeArea
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testlib
+    error            : "{\n\t[\"first_gid\"] = 61,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:28:04] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : DEBUGLIB
+    source_area_name         : DEBUGIN
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : DEBUGLIB
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:28:04] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationHardMode
+    source_area_name         : LibHard
+[2026-11-13 14:28:04] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationHardMode
+    error            : "{\n\t[\"first_gid\"] = 4,\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\"\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : NewLiberation1
+    source_area_name         : BetaLiberation
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : NewLiberation1
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationNormalMode
+    source_area_name         : LibNorm
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationNormalMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : DEBUGLIB
+    source_area_name         : DEBUGIN
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : DEBUGLIB
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : liberation1
+    source_area_name        : Undernet2
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : liberation1
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 110\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : christmas
+    respawn_area            : christmas
+    source_area_id          : testground
+    source_area_name        : PracticeArea2
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testground
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationEasyMode
+    source_area_name         : LibEasy
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationEasyMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationHardMode
+    source_area_name         : LibHard
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationHardMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : ooo
+    respawn_area            : ooo
+    source_area_id          : testlib
+    source_area_name        : PracticeArea
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testlib
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 61\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : "example liberation friendly"
+    source_area_name        : "Template Lib"
+[2026-11-13 14:31:53] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : "example liberation friendly"
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : "example liberation friendly"
+    source_area_name        : "Template Lib"
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : "example liberation friendly"
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationEasyMode
+    source_area_name         : LibEasy
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationEasyMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : ooo
+    respawn_area            : ooo
+    source_area_id          : testlib
+    source_area_name        : PracticeArea
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testlib
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 61\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : DEBUGLIB
+    source_area_name         : DEBUGIN
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : DEBUGLIB
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : NewLiberation1
+    source_area_name         : BetaLiberation
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : NewLiberation1
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : christmas
+    respawn_area            : christmas
+    source_area_id          : testground
+    source_area_name        : PracticeArea2
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : testground
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationNormalMode
+    source_area_name         : LibNorm
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationNormalMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [DEBUG] [nebulous-liberations/MAIN] Registered Liberation party area
+    configured_waiting_area  : default
+    resolved_waiting_area_id : default
+    respawn_area             : default
+    source_area_id           : LiberationHardMode
+    source_area_name         : LibHard
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : LiberationHardMode
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 4\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not resolve Liberation Waiting Area
+    configured_waiting_area : undernet1
+    respawn_area            : undernet1
+    source_area_id          : liberation1
+    source_area_name        : Undernet2
+[2026-11-13 14:49:57] [WARN ] [nebulous-liberations/MAIN] Could not register Liberation Tileset panels from Liberation Config
+    area_id          : liberation1
+    error            : "{\n\t[\"path\"] = \"/server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx\",\n\t[\"first_gid\"] = 110\n}"
+    lookup_succeeded : true
+    tileset_path     : /server/assets/ezlibs-custom/nebulous-liberations/tiles/panels.tsx
+[2026-11-13 14:50:52] [INFO ] [nebulous-liberations/MAIN] plugin handle_battle_results invoked
+    arg1_type : string
+    arg2_type : table
+    arg_count : 2
+[2026-11-13 14:50:53] [INFO ] [nebulous-liberations/MAIN] plugin handle_battle_exit invoked
+    arg1_type : string
+    arg2_type : table
+    arg_count : 3
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/MAIN] Starting liberation mission
+    base_area        : LiberationEasyMode
+    base_area_name   : LibEasy
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    player_count     : 1
+    player_ids       :
+        [1] : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfers starting
+    base_area_id     : LiberationEasyMode
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    player_count     : 1
+    player_ids       :
+        [1] : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/MAIN] Liberation mission transfer requested
+    instance_area_id : liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    player_id        : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:29] [INFO ] [nebulous-liberations/MAIN] plugin handle_battle_results invoked
+    arg1_type : string
+    arg2_type : table
+    arg_count : 2
+[2026-11-13 14:51:30] [INFO ] [nebulous-liberations/MAIN] plugin handle_battle_exit invoked
+    arg1_type : string
+    arg2_type : table
+    arg_count : 3

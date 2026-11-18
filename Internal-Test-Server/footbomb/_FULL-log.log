@@ -1,0 +1,131 @@
+[2026-11-13 13:36:10] [INFO ] [footbomb/MAIN] [footbomb] Created FootBomb Controller footbomb-ref-footbomb-150 in footbomb
+[2026-11-13 13:36:19] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_join observed player=8f37800b-b987-42c8-893c-c33e35ee0a2e area=default expected_source_area=footbomb
+[2026-11-13 13:36:23] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: created id=liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:36:23] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: player joined instance=liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e player=8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:36:24] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=8f37800b-b987-42c8-893c-c33e35ee0a2e area=liberation_8f37800b-b987-42c8-893c-c33e35ee0a2e expected_source_area=footbomb
+[2026-11-13 13:46:33] [INFO ] [footbomb/MAIN] [footbomb] Created FootBomb Controller footbomb-ref-footbomb-150 in footbomb
+[2026-11-13 13:46:39] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_join observed player=00c9e590-acff-445d-8103-56492aa4e489 area=default expected_source_area=footbomb
+[2026-11-13 13:46:43] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: created id=liberation_00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:46:43] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: player joined instance=liberation_00c9e590-acff-445d-8103-56492aa4e489 player=00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:46:43] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=00c9e590-acff-445d-8103-56492aa4e489 area=liberation_00c9e590-acff-445d-8103-56492aa4e489 expected_source_area=footbomb
+[2026-11-13 13:47:46] [INFO ] [footbomb/MAIN] [footbomb] Created FootBomb Controller footbomb-ref-footbomb-150 in footbomb
+[2026-11-13 13:47:52] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_join observed player=9054e5ef-083d-48dc-b530-1e3b8ca2d3c9 area=default expected_source_area=footbomb
+[2026-11-13 13:47:57] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: created id=liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:47:57] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: player joined instance=liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9 player=9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:47:57] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=9054e5ef-083d-48dc-b530-1e3b8ca2d3c9 area=liberation_9054e5ef-083d-48dc-b530-1e3b8ca2d3c9 expected_source_area=footbomb
+[2026-11-13 13:59:35] [INFO ] [footbomb/MAIN] [footbomb] Created FootBomb Controller footbomb-ref-footbomb-150 in footbomb
+[2026-11-13 13:59:46] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_join observed player=a7aab878-a964-4aaa-a161-f46a9adbc57a area=default expected_source_area=footbomb
+[2026-11-13 13:59:51] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: created id=liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 13:59:51] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: player joined instance=liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a player=a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 13:59:53] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=a7aab878-a964-4aaa-a161-f46a9adbc57a area=liberation_a7aab878-a964-4aaa-a161-f46a9adbc57a expected_source_area=footbomb
+[2026-11-13 14:05:15] [INFO ] [footbomb/MAIN] [footbomb] Created FootBomb Controller footbomb-ref-footbomb-150 in footbomb
+[2026-11-13 14:05:30] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_join observed player=e2bc349b-ca6a-4923-baaf-a0fd0d9feccd area=default expected_source_area=footbomb
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=e2bc349b-ca6a-4923-baaf-a0fd0d9feccd area=footbomb expected_source_area=footbomb
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: source-area preload starting area=footbomb reason=player_transfer
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=Navi MegaMan path=/server/assets/net-game-footbomb/bots/megaman.animation texture=/server/assets/net-game-footbomb/bots/megaman.png texture_size=290x150
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=Navi Roll path=/server/assets/net-game-footbomb/bots/roll.animation texture=/server/assets/net-game-footbomb/bots/roll.png texture_size=350x150
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=Navi Normal Navi path=/server/assets/net-game-footbomb/bots/normal-navi-green.animation texture=/server/assets/net-game-footbomb/bots/normal-navi-green.png texture_size=260x107
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=Navi ProtoMan path=/server/assets/net-game-footbomb/bots/protoman.animation texture=/server/assets/net-game-footbomb/bots/protoman.png texture_size=290x180
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=Navi Glyde path=/server/assets/net-game-footbomb/bots/glyde.animation texture=/server/assets/net-game-footbomb/bots/glyde.png texture_size=256x128
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=Navi GutsMan path=/server/assets/net-game-footbomb/bots/gutsman.animation texture=/server/assets/net-game-footbomb/bots/gutsman.png texture_size=430x128
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=Navi Prog path=/server/assets/net-game-footbomb/bots/prog.animation texture=/server/assets/net-game-footbomb/bots/prog.png texture_size=190x150
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=Navi GridMan path=/server/assets/net-game-footbomb/bots/gridman.animation texture=/server/assets/net-game-footbomb/bots/gridman.png texture_size=370x140
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=bomb Classic-MM path=/server/assets/net-game-footbomb/bombs/classic-mm.animation texture=unspecified texture_size=unknownxunknown
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=bomb Default-Skin path=/server/assets/net-game-footbomb/bombs/default-skin.animation texture=unspecified texture_size=unknownxunknown
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=bomb Pokemon path=/server/assets/net-game-footbomb/bombs/pokemon.animation texture=unspecified texture_size=unknownxunknown
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: animation states and frame bounds validated label=bomb Bakugan path=/server/assets/net-game-footbomb/bombs/bakugan-ball.animation texture=unspecified texture_size=unknownxunknown
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/megaman.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/megaman.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/megaman-mug.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/roll.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/roll.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/roll-mug.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/normal-navi-green.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/normal-navi-green.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/normal-navi-green-mug.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/protoman.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/protoman.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/protoman-mug.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/glyde.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/glyde.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/glyde-mug.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/gutsman.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/gutsman.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/gutsman-mug.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/prog.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/prog.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/prog-mug.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/gridman.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/gridman.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/gridman-mug.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bots/mug.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bombs/classic-mm.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bombs/classic-mm.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bombs/default-skin.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bombs/default-skin.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bombs/pokemon.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bombs/pokemon.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bombs/bakugan-ball.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/bombs/bakugan-ball.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/ui/kicker-role-box-9slice.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/ui/defender-role-box-9slice.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/ui/role-box-9slice.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/ui/role-icons.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/ui/role-icons.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: instance bot asset preload complete area=footbomb assets=38 navi_skins=8 bomb_skins=4
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-games/cursors/text_cursor.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-games/cursors/vibrant_text_cursor.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-games/cursors/text_cursor.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-games/sfx/cursor_move.ogg pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/sfx/item-thud.ogg pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/ui/score-board.png pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: area asset provided area=footbomb path=/server/assets/net-game-footbomb/ui/score-board.animation pcall_ok=true return=nil
+[2026-11-13 14:05:38] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: source-area preload complete area=footbomb reason=player_transfer navi_skins=8 bomb_skins=4 ui_assets=7
+[2026-11-13 14:05:40] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=e2bc349b-ca6a-4923-baaf-a0fd0d9feccd area=default expected_source_area=footbomb
+[2026-11-13 14:05:45] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: created id=liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:05:45] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: player joined instance=liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd player=e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:05:46] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=e2bc349b-ca6a-4923-baaf-a0fd0d9feccd area=liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd expected_source_area=footbomb
+[2026-11-13 14:15:17] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: player left instance=liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd player=e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:15:17] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: host changed instance=liberation_e2bc349b-ca6a-4923-baaf-a0fd0d9feccd new=nil old=e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:28:02] [INFO ] [footbomb/MAIN] [footbomb] Created FootBomb Controller footbomb-ref-footbomb-150 in footbomb
+[2026-11-13 14:31:51] [INFO ] [footbomb/MAIN] [footbomb] Created FootBomb Controller footbomb-ref-footbomb-150 in footbomb
+[2026-11-13 14:32:20] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_join observed player=e817eed2-3396-4cf3-bdb7-aeec95cfc78b area=default expected_source_area=footbomb
+[2026-11-13 14:49:55] [INFO ] [footbomb/MAIN] [footbomb] Created FootBomb Controller footbomb-ref-footbomb-150 in footbomb
+[2026-11-13 14:50:25] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_join observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:50:32] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:50:33] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:00] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:00] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:00] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:00] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:00] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:00] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:01] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:01] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:01] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:01] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:01] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:01] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:01] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:02] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:02] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:02] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:02] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:02] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:02] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:03] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:03] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:03] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:03] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:03] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:03] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:03] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:04] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:04] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:04] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:04] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:04] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:04] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=default expected_source_area=footbomb
+[2026-11-13 14:51:10] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: created id=liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:10] [INFO ] [footbomb/MAIN] [footbomb] INSTANCE_FLOW: player joined instance=liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888 player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:11] [INFO ] [footbomb/MAIN] [footbomb] ASSET_FLOW: player_transfer observed player=ad3df8bf-a10f-4d5e-bbd6-4d733a471888 area=liberation_ad3df8bf-a10f-4d5e-bbd6-4d733a471888 expected_source_area=footbomb

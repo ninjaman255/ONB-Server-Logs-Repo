@@ -1,0 +1,4 @@
+[2026-11-13 14:13:05] [INFO ] [eznpcs/DIALOGUE-TYPES/PLAYER] [battle_npc] battle_results received t=470.503 reason=4 health=1000 ran=nil fled=nil escape=nil is_battling=false
+[2026-11-13 14:15:14] [INFO ] [eznpcs/DIALOGUE-TYPES/PLAYER] [battle_npc] battle_results received t=599.020 reason=4 health=980 ran=nil fled=nil escape=nil is_battling=false
+[2026-11-13 14:50:52] [INFO ] [eznpcs/DIALOGUE-TYPES/PLAYER] [battle_npc] battle_results received t=56.686 reason=4 health=1000 ran=nil fled=nil escape=nil is_battling=false
+[2026-11-13 14:51:29] [INFO ] [eznpcs/DIALOGUE-TYPES/PLAYER] [battle_npc] battle_results received t=93.776 reason=4 health=1000 ran=nil fled=nil escape=nil is_battling=false
