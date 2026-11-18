@@ -4,7 +4,7 @@ setlocal EnableExtensions DisableDelayedExpansion
 REM ==================================================
 REM GITHUB FOLDER SYNC v3 - CONFIGURATION
 REM ==================================================
-set "REPO_URL=https://github.com/USERNAME/REPOSITORY.git"
+set "REPO_URL=https://github.com/ninjaman255/ONB-Server-Logs-Repo"
 set "BRANCH=main"
 REM Leave blank for repo root, or set e.g. servers/alpha/logs
 REM Only letters, numbers, underscores, dashes, dots, and / are allowed.

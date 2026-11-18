@@ -1,0 +1,20 @@
+[2026-11-13 13:36:10] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Registered Pushback NPC object=191 bot=694ab9c2-05de-483e-8e23-627d149c5658 zone=1.00x1.00 push=0.10 duration=0.05
+[2026-11-13 13:36:10] [INFO ] [eznpcs/AREA] [eznpcs] Registered NPC Spawner:	211	template=	212	template_type=	Pushback NPC	radius=	5	mode=	interval	interval=	2	max_alive=	0	once=	false	warp_out_at_end=	true
+[2026-11-13 13:46:33] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Registered Pushback NPC object=191 bot=e394cae4-e7ef-4dfb-8513-a5fd45aca2e6 zone=1.00x1.00 push=0.10 duration=0.05
+[2026-11-13 13:46:33] [INFO ] [eznpcs/AREA] [eznpcs] Registered NPC Spawner:	211	template=	212	template_type=	Pushback NPC	radius=	5	mode=	interval	interval=	2	max_alive=	0	once=	false	warp_out_at_end=	true
+[2026-11-13 13:47:46] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Registered Pushback NPC object=191 bot=b7abb5ee-72ee-4708-9c18-10bea9232f7e zone=1.00x1.00 push=0.10 duration=0.05
+[2026-11-13 13:47:46] [INFO ] [eznpcs/AREA] [eznpcs] Registered NPC Spawner:	211	template=	212	template_type=	Pushback NPC	radius=	5	mode=	interval	interval=	2	max_alive=	0	once=	false	warp_out_at_end=	true
+[2026-11-13 13:59:35] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Registered Pushback NPC object=191 bot=e88aa054-17d5-46c8-a8d9-70a2044864d8 zone=1.00x1.00 push=0.10 duration=0.05
+[2026-11-13 13:59:35] [INFO ] [eznpcs/AREA] [eznpcs] Registered NPC Spawner:	211	template=	212	template_type=	Pushback NPC	radius=	5	mode=	interval	interval=	2	max_alive=	0	once=	false	warp_out_at_end=	true
+[2026-11-13 14:05:15] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Registered Pushback NPC object=191 bot=3308d6aa-fb5d-44b6-8029-c805eb73eaa0 zone=1.00x1.00 push=0.10 duration=0.05
+[2026-11-13 14:05:15] [INFO ] [eznpcs/AREA] [eznpcs] Registered NPC Spawner:	211	template=	212	template_type=	Pushback NPC	radius=	5	mode=	interval	interval=	2	max_alive=	0	once=	false	warp_out_at_end=	true
+[2026-11-13 14:28:02] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Registered Pushback NPC object=191 bot=67cfb179-da7d-482c-ae1d-b1bd7bee0353 zone=1.00x1.00 push=0.10 duration=0.05
+[2026-11-13 14:28:02] [INFO ] [eznpcs/AREA] [eznpcs] Registered NPC Spawner:	211	template=	212	template_type=	Pushback NPC	radius=	5	mode=	interval	interval=	2	max_alive=	0	once=	false	warp_out_at_end=	true
+[2026-11-13 14:31:51] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Registered Pushback NPC object=191 bot=ae9e81ec-cb36-43e0-bd45-a08b8b65e86c zone=1.00x1.00 push=0.10 duration=0.05
+[2026-11-13 14:31:51] [INFO ] [eznpcs/AREA] [eznpcs] Registered NPC Spawner:	211	template=	212	template_type=	Pushback NPC	radius=	5	mode=	interval	interval=	2	max_alive=	0	once=	false	warp_out_at_end=	true
+[2026-11-13 14:49:55] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Registered Pushback NPC object=191 bot=7621e9c8-de48-4c09-b064-7c44a2f2a3a3 zone=1.00x1.00 push=0.10 duration=0.05
+[2026-11-13 14:49:55] [INFO ] [eznpcs/AREA] [eznpcs] Registered NPC Spawner:	211	template=	212	template_type=	Pushback NPC	radius=	5	mode=	interval	interval=	2	max_alive=	0	once=	false	warp_out_at_end=	true
+[2026-11-13 14:50:31] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Spawned Pushback NPC bot=c279d508-40dc-41d7-aaa3-de62c7f64f9c spawner=211 zone=1.00x1.00 push=0.10
+[2026-11-13 14:50:31] [INFO ] [eznpcs/AREA] [eznpcs] Interval spawner fired:	211	live=	1
+[2026-11-13 14:50:33] [INFO ] [eznpcs/NPC-PUSHBACK/AREA] [ezpushback] Spawned Pushback NPC bot=90f92339-4984-4fe5-9126-49b5fdffa56d spawner=211 zone=1.00x1.00 push=0.10
+[2026-11-13 14:50:33] [INFO ] [eznpcs/AREA] [eznpcs] Interval spawner fired:	211	live=	2

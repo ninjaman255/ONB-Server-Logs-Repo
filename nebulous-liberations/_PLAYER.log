@@ -1,0 +1,85 @@
+[2026-11-13 14:07:42] [DEBUG] [nebulous-liberations/PLAYER] textbox_response: resolver consumed
+    pending_after  : 0
+    pending_before : 1
+    player_id      : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    response       : 0
+[2026-11-13 14:13:05] [INFO ] [nebulous-liberations/PLAYER] handle_battle_results: captured
+    escape              : "nil"
+    fled                : "nil"
+    has_pending_resolve : true
+    has_stats           : true
+    panicked            : true
+    player_id           : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    reason              : "4"
+[2026-11-13 14:13:06] [INFO ] [nebulous-liberations/PLAYER] handle_battle_exit: resolving
+    has_pending_resolve : true
+    has_stats_arg       : true
+    player_id           : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    source              : pending_from_results
+[2026-11-13 14:15:07] [DEBUG] [nebulous-liberations/PLAYER] textbox_response: stray (no pending resolver)
+    player_id : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    response  : 0
+[2026-11-13 14:15:11] [DEBUG] [nebulous-liberations/PLAYER] textbox_response: resolver consumed
+    pending_after  : 0
+    pending_before : 1
+    player_id      : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    response       : 0
+[2026-11-13 14:15:14] [INFO ] [nebulous-liberations/PLAYER] handle_battle_results: captured
+    escape              : "nil"
+    fled                : "nil"
+    has_pending_resolve : true
+    has_stats           : true
+    panicked            : true
+    player_id           : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    reason              : "4"
+[2026-11-13 14:15:15] [INFO ] [nebulous-liberations/PLAYER] handle_battle_exit: resolving
+    has_pending_resolve : true
+    has_stats_arg       : true
+    player_id           : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+    source              : pending_from_results
+[2026-11-13 14:50:35] [DEBUG] [nebulous-liberations/PLAYER] textbox_response: resolver consumed
+    pending_after  : 0
+    pending_before : 1
+    player_id      : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    response       : 1
+[2026-11-13 14:50:52] [INFO ] [nebulous-liberations/PLAYER] handle_battle_results: captured
+    escape              : "nil"
+    fled                : "nil"
+    has_pending_resolve : false
+    has_stats           : true
+    panicked            : true
+    player_id           : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    reason              : "4"
+[2026-11-13 14:50:53] [INFO ] [nebulous-liberations/PLAYER] handle_battle_exit: resolving
+    has_pending_resolve : false
+    has_stats_arg       : true
+    player_id           : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    source              : battle_exit_event
+[2026-11-13 14:51:09] [DEBUG] [nebulous-liberations/PLAYER] textbox_response: resolver consumed
+    pending_after  : 0
+    pending_before : 1
+    player_id      : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    response       : 0
+[2026-11-13 14:51:23] [DEBUG] [nebulous-liberations/PLAYER] textbox_response: resolver consumed
+    pending_after  : 0
+    pending_before : 1
+    player_id      : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    response       : 0
+[2026-11-13 14:51:24] [DEBUG] [nebulous-liberations/PLAYER] textbox_response: resolver consumed
+    pending_after  : 0
+    pending_before : 1
+    player_id      : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    response       : 0
+[2026-11-13 14:51:29] [INFO ] [nebulous-liberations/PLAYER] handle_battle_results: captured
+    escape              : "nil"
+    fled                : "nil"
+    has_pending_resolve : true
+    has_stats           : true
+    panicked            : true
+    player_id           : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    reason              : "4"
+[2026-11-13 14:51:30] [INFO ] [nebulous-liberations/PLAYER] handle_battle_exit: resolving
+    has_pending_resolve : true
+    has_stats_arg       : true
+    player_id           : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+    source              : pending_from_results

@@ -1,0 +1,280 @@
+[2026-11-13 13:36:10] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:36:10] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:36:10] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:36:10] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/area
+[2026-11-13 13:36:10] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/player
+[2026-11-13 13:36:10] [INFO ] [helpers] [helpers] Created directory via os.execute:	./encounters
+[2026-11-13 13:36:10] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 13:36:10] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 13:36:10] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/board
+[2026-11-13 13:36:11] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 13:36:11] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 13:46:33] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:46:33] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:46:33] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:46:33] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/area
+[2026-11-13 13:46:33] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/player
+[2026-11-13 13:46:33] [INFO ] [helpers] [helpers] Created directory via os.execute:	./encounters
+[2026-11-13 13:46:33] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 13:46:33] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 13:46:33] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/board
+[2026-11-13 13:46:33] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 13:46:33] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 13:47:45] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:47:45] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:47:45] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:47:45] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/area
+[2026-11-13 13:47:45] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/player
+[2026-11-13 13:47:45] [INFO ] [helpers] [helpers] Created directory via os.execute:	./encounters
+[2026-11-13 13:47:46] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 13:47:46] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 13:47:46] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/board
+[2026-11-13 13:47:46] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 13:47:46] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 13:59:35] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:59:35] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:59:35] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 13:59:35] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/area
+[2026-11-13 13:59:35] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/player
+[2026-11-13 13:59:35] [INFO ] [helpers] [helpers] Created directory via os.execute:	./encounters
+[2026-11-13 13:59:35] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 13:59:35] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 13:59:35] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/board
+[2026-11-13 13:59:36] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 13:59:36] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 14:05:14] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:05:14] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:05:14] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:05:14] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/area
+[2026-11-13 14:05:14] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/player
+[2026-11-13 14:05:14] [INFO ] [helpers] [helpers] Created directory via os.execute:	./encounters
+[2026-11-13 14:05:14] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 14:05:14] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 14:05:14] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/board
+[2026-11-13 14:05:15] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 14:05:15] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 14:28:01] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:28:01] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:28:01] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:28:01] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/area
+[2026-11-13 14:28:02] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/player
+[2026-11-13 14:28:02] [INFO ] [helpers] [helpers] Created directory via os.execute:	./encounters
+[2026-11-13 14:28:02] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 14:28:02] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 14:28:02] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/board
+[2026-11-13 14:28:02] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 14:28:02] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 14:31:51] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:31:51] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:31:51] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:31:51] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/area
+[2026-11-13 14:31:51] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/player
+[2026-11-13 14:31:51] [INFO ] [helpers] [helpers] Created directory via os.execute:	./encounters
+[2026-11-13 14:31:51] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 14:31:51] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 14:31:51] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/board
+[2026-11-13 14:31:52] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 14:31:52] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 14:49:54] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:49:54] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:49:54] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory
+[2026-11-13 14:49:54] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/area
+[2026-11-13 14:49:55] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/player
+[2026-11-13 14:49:55] [INFO ] [helpers] [helpers] Created directory via os.execute:	./encounters
+[2026-11-13 14:49:55] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 14:49:55] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode
+[2026-11-13 14:49:55] [INFO ] [helpers] [helpers] Created directory via os.execute:	./memory/board
+[2026-11-13 14:49:55] [WARN ] [helpers] (safe_require) error loading script scripts/events/eznpcs_onceitem
+[2026-11-13 14:49:55] [WARN ] [helpers] (safe_require) reason ...\Internal_Test_Server\scripts/events/eznpcs_onceitem.lua:25: module 'scripts/ezlibs-custom/pets' not found:
+    	no field package.preload['scripts/ezlibs-custom/pets']
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\lua\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets.lua'
+    	no file 'C:\Users\aaron\Documents\Code\Internal_Test_Server\..\share\lua\5.4\scripts/ezlibs-custom/pets\init.lua'
+    	no file '.\scripts/ezlibs-custom/pets.lua'
+    	no file '.\scripts/ezlibs-custom/pets\init.lua'
+    	no file 'C:\Program Files (x86)\Lua\5.1\lua\scripts/ezlibs-custom/pets.luac'
+    	
+    	can't load C modules in safe mode

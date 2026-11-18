@@ -1,0 +1,48 @@
+[2026-11-13 13:36:22] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selector opened
+    area_id       : default
+    mission_count : 9
+    player_id     : 8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:36:23] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selected
+    label        : "Easy Liberation"
+    mission_area : LiberationEasyMode
+    player_id    : 8f37800b-b987-42c8-893c-c33e35ee0a2e
+[2026-11-13 13:46:42] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selector opened
+    area_id       : default
+    mission_count : 9
+    player_id     : 00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:46:43] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selected
+    label        : "Easy Liberation"
+    mission_area : LiberationEasyMode
+    player_id    : 00c9e590-acff-445d-8103-56492aa4e489
+[2026-11-13 13:47:56] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selector opened
+    area_id       : default
+    mission_count : 9
+    player_id     : 9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:47:57] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selected
+    label        : "Normal Liberation"
+    mission_area : LiberationNormalMode
+    player_id    : 9054e5ef-083d-48dc-b530-1e3b8ca2d3c9
+[2026-11-13 13:59:50] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selector opened
+    area_id       : default
+    mission_count : 9
+    player_id     : a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 13:59:51] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selected
+    label        : "Beta Liberation"
+    mission_area : NewLiberation1
+    player_id    : a7aab878-a964-4aaa-a161-f46a9adbc57a
+[2026-11-13 14:05:45] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selector opened
+    area_id       : default
+    mission_count : 9
+    player_id     : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:05:45] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selected
+    label        : "Easy Liberation"
+    mission_area : LiberationEasyMode
+    player_id    : e2bc349b-ca6a-4923-baaf-a0fd0d9feccd
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selector opened
+    area_id       : default
+    mission_count : 9
+    player_id     : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
+[2026-11-13 14:51:10] [INFO ] [nebulous-liberations/MISSION-SELECTOR] Golden Prog mission selected
+    label        : "Easy Liberation"
+    mission_area : LiberationEasyMode
+    player_id    : ad3df8bf-a10f-4d5e-bbd6-4d733a471888
